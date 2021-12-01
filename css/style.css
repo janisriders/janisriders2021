@@ -13,6 +13,10 @@ backround-color: lightnlue;
 padding: 10px 10px 10px 10px;
 margin: 50px 20px 50px 20px;
 }
-
+.iesniegt{
+  border-style: solid;
+  border-radius: 25px;
+  margin-left:50%;
+}
 
 
